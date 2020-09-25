@@ -1,0 +1,3 @@
+The application is a react native cross platform application
+it works on both ios and android
+These files are the configuration for the server side
